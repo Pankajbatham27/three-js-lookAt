@@ -1,0 +1,11 @@
+.laptop {
+    position: fixed;
+    max-width: 200px;
+    left: 50%;
+    top: 60%;
+    transform: translate(-50%, -50%);
+}
+
+.laptop img {
+    max-width: 100%;
+}
